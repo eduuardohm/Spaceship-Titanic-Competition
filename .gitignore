@@ -1,0 +1,10 @@
+# Dados
+data/
+*.csv
+
+# Kaggle
+submissions/
+
+# Windows
+venv/
+desktop.ini
